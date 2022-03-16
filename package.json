@@ -1,6 +1,6 @@
 {
   "name": "demo-postgis-nodejs-main",
-  "version": "16.14.0",
+  "version": "1.0.0",
   "description": "Web Mapping",
   "main": "index.js",
   "scripts": {
